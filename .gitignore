@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+assignment.pdf
+Customers.csv
+merged_data.csv
+Products.csv
+Transactions.csv
+*.pptx
+*.docx
+*.pbix
+*.xlsx
